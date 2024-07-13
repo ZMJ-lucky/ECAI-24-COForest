@@ -9,7 +9,7 @@ The ICOF.m file implements the inner loop function of the COForest algorithm. Th
 Finally, the Execute_Clustering.m file is the execution file of the entire COForest algorithm on the given data set. 
 # How to run
 	Just add all files to the run path, and run the Execute_Clustering.m file, the results will be seen in the command line window.
-#Please cite the paper if the codes are helpful for your research. Citation information is provided below for the convenience of readers.
+# Please cite the paper if the codes are helpful for your research. Citation information is provided below for the convenience of readers.
 
 General citation: 
 Mingjie Zhao, Sen Feng, Yiqun Zhang, Mengke Li, Yang Lu, and Yiu-ming Cheung, "Learning Order Forest for Qualitative-Attribute Data Clustering ", Proceedings of the 27-th Europen Conference on Artificial Intelligence (ECAI'2024), Santiago de Compostela, October 19-24, 2024.
