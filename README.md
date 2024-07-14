@@ -1,4 +1,4 @@
-# COForest demo code for paper 863
+# COForest demo code for the paper "Learning Order Forest for Qualitative-Attribute Data Clustering"
 # Datasetscs
 Two demo datasets are located in the Data folder, i.e., CS, HF.
 # Code information
